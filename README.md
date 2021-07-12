@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm ronaldoxzb</h1>
 <h3 align="center">A passionate frontend developer from hangzhou of china</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldoxzb&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldoxzb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronaldoxzb" alt="ronaldoxzb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/queenxzb@163.com" target="blank"><img src="https://img.shields.io/twitter/follow/queenxzb@163.com?logo=twitter&style=for-the-badge" alt="queenxzb@163.com" /></a> </p>
-
 - 🔭 I’m currently working on [egg-spider](https://github.com/ronaldoxzb/egg-spider)
 
 - 🌱 I’m currently learning **react,webpack,ts**
@@ -29,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/queenxzb@163.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="queenxzb@163.com" height="30" width="40" /></a>
+<a href="https://twitter.com/queenxzb@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="queenxzb@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldoxzb&show_icons=true&locale=en&layout=compact" alt="ronaldoxzb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronaldoxzb&show_icons=true&locale=en" alt="ronaldoxzb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldoxzb&" alt="ronaldoxzb" /></p>
-
